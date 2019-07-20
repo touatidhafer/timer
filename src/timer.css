@@ -1,0 +1,17 @@
+.master{
+    text-align: center;
+}
+.block{
+    display: inline-block;
+}
+.digits{
+    text-align: center;
+    font-size: 200px;
+   
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    color: grey;
+}
